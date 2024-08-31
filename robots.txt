@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rimozz.github.io/sitemap/sitemap.SvHh.gz
